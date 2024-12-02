@@ -87,3 +87,24 @@ The project includes visualizations to better understand the results:
    ```bash
    git clone https://github.com/your-username/NYC-Taxi-Analysis.git
    cd NYC-Taxi-Analysis
+2. **Install Dependencies:** Ensure Python and required libraries are installed**
+3. **Run the Notebook:** Open and run the notebook `NYCTaxiAnalysis.ipynb` in a Jupyter or Google Colab environment.
+4. **View Visualizations:** After running all cells, refer to the visualization outputs to interpret results.
+
+---
+
+### **Project Structure**
+  ```bash
+  NYC-Taxi-Analysis/
+  │
+  ├── Sample NYC Data.csv         # Taxi data (CSV format)
+  ├── nyc-boroughs.geojson        # NYC borough boundaries (GeoJSON format)
+  ├── NYCTaxi-RezaHOSSEINI-MoslemPirzad.ipynb  # Main analysis notebook
+  ├── README.md                   # Project documentation
+
+
+
+
+
+
+   
