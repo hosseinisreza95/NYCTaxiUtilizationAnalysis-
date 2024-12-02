@@ -98,5 +98,5 @@ The project includes visualizations to better understand the results:
     │
     ├── Sample NYC Data.csv         # Taxi data (CSV format)
     ├── nyc-boroughs.geojson        # NYC borough boundaries (GeoJSON format)
-    ├── NYCTaxi-RezaHOSSEINI-MoslemPirzad.ipynb  # Main analysis notebook
+    ├── NYCTaxiAnalysis.ipynb  # Main analysis notebook
     ├── README.md                   # Project documentation
