@@ -94,17 +94,10 @@ The project includes visualizations to better understand the results:
 ---
 
 ### **Project Structure**
-  ```bash
-  NYC-Taxi-Analysis/
-  │
-  ├── Sample NYC Data.csv         # Taxi data (CSV format)
-  ├── nyc-boroughs.geojson        # NYC borough boundaries (GeoJSON format)
-  ├── NYCTaxi-RezaHOSSEINI-MoslemPirzad.ipynb  # Main analysis notebook
-  ├── README.md                   # Project documentation
-
-
-
-
-
-
-   
+    ```bash
+    NYC-Taxi-Analysis/
+    │
+    ├── Sample NYC Data.csv         # Taxi data (CSV format)
+    ├── nyc-boroughs.geojson        # NYC borough boundaries (GeoJSON format)
+    ├── NYCTaxi-RezaHOSSEINI-MoslemPirzad.ipynb  # Main analysis notebook
+    ├── README.md                   # Project documentation
