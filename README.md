@@ -94,7 +94,6 @@ The project includes visualizations to better understand the results:
 ---
 
 ### **Project Structure**
-    ```bash
     NYC-Taxi-Analysis/
     │
     ├── Sample NYC Data.csv         # Taxi data (CSV format)
